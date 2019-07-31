@@ -1,6 +1,6 @@
 # ECMAScript 6 入门
 
-《ECMAScript 6 入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。test
+《ECMAScript 6 入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 a
 
 [![cover](images/cover_thumbnail_3rd.jpg)](images/cover-3rd.jpg)
 
